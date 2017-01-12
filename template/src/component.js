@@ -19,7 +19,7 @@ export default{
    * This is called when the component is ready
    * You can find further documentation : http://vuejs.org/guide/instance.html#Lifecycle-Diagram
    */
-  ready () {
+  created () {
     console.log('Component is ready')
   },
 
